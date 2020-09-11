@@ -57,7 +57,11 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/43.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Shari",STAR GOLD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/32.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Shari",SONY YAY
+#EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi",Sony Max HD Mirror
+http://iptv.mirrorace.net/?channelid=47
+#EXTINF:-1 tvg-id="156" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD Mirror
+http://iptv.mirrorace.net/?channelid=15
+66#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Shari",SONY YAY
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Shari",SONY TEN 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
