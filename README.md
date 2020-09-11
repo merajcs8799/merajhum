@@ -382,7 +382,7 @@ http://45.249.187.238:8081/hls/new8.m3u8
 http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Zee TV
 http://45.249.187.238:8081/hls/tsl-5.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_And TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Star Gold 2
 http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Hindi",And TV Ibox
 http://103.135.208.14/live/ibox/bd/47.m3u8
