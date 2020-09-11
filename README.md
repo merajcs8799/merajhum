@@ -233,9 +233,14 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Hindi",Sony Max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD Mirror
+http://iptv.mirrorace.net/?channelid=155 
+#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Ten 1 HD
+ Mirror
+http://iptv.mirrorace.net/?channelid=162
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Adventure",Discovery HD 棣冩嚐
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Adventure",Discovery HD 棣冩嚐
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Adventure",Discovery HD 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
 #EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi",Sony Max HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
@@ -422,7 +427,8 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://45.249.187.238:8081/hls/hdmi1.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Animal Planet
 http://45.249.187.238:8081/hls/tsl-1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Mastii Music
+#EXTINF:-1 tvg-id="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Hindi",And TV HD
+http://iptv.mirrorace.net/?channelid=472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="KITV LIVE",KI_BTV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="KITV LIVE",KI_ATN BANGLA [BD]
