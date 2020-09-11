@@ -578,6 +578,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
 #EXTINF:-1 tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Hindi",Sony Max SD Mirror
 http://iptv.mirrorace.net/?channelid=289
-#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi",Sony MAX 2
- Mirror
+#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi",Sony MAX 2 Mirror
 http://iptv.mirrorace.net/?channelid=483
+#EXTINF:-1 tvg-id="697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment",Sony aath Mirror
+http://iptv.mirrorace.net/?channelid=697 
