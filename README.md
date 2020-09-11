@@ -239,6 +239,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
 #EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi",Sony Max HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
+#EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi",Sony Max Ibox
+http://103.135.208.14/live/ibox/bd/107.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CN HD+" tvg-logo="https://regularcapital.toonsphere.com/wp-content/uploads/2018/04/CartoonNetworkHDLogo.png" group-title="Kids",CN HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
 #EXTINF:-1 tvg-id="SonySix(src07).in(m3u4u)" tvg-name="Sony Six HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
@@ -310,6 +312,8 @@ http://103.135.208.14/live/ibox/bd/56.m3u8
 http://103.135.208.14/live/ibox/bd/55.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Star Sports Select 1 HD Ibox
 http://103.135.208.14/live/ibox/bd/82.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Star Sports Select 1 HD Ibox
+http://103.135.208.14/live/ibox/bd/77.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Star Sports Select 2 HD Ibox
 http://103.135.208.14/live/ibox/bd/83.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Willow HD鉁�
@@ -380,6 +384,8 @@ http://45.249.187.238:8081/hls/new7.m3u8
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_And TV
 http://45.249.187.238:8081/hls/tsl-6.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Hindi",And TV Ibox
+http://103.135.208.14/live/ibox/bd/47.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Sony Sab
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Star Gold 2
