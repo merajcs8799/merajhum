@@ -239,8 +239,7 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD Mirror
 http://iptv.mirrorace.net/?channelid=155 
-#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Ten 1 HD
- Mirror
+#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Ten 1 HD Mirror
 http://iptv.mirrorace.net/?channelid=162
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Adventure",Discovery HD 棣冩嚐
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
