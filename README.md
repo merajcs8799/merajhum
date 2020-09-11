@@ -584,3 +584,14 @@ http://iptv.mirrorace.net/?channelid=483
 http://iptv.mirrorace.net/?channelid=697
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Hindi",COLORS HD
 http://iptv.mirrorace.net/?channelid=144
+http://iptv.mirrorace.net/?channelid=177 
+#EXTINF:-1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD
+http://iptv.mirrorace.net/?channelid=891
+#EXTINF:-1 tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Hindi",Sony Max SD Mirror
+http://iptv.mirrorace.net/?channelid=289
+#EXTINF:-1 tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Hindi",Sony Max SD 🐸
+https://flametvadmin.tk/air.php?c=sonymax
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Shari",Star Sports Select 1 HD 🐸
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Shari",Star Sports Select 1 HD 🐸
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
