@@ -581,4 +581,6 @@ http://iptv.mirrorace.net/?channelid=289
 #EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi",Sony MAX 2 Mirror
 http://iptv.mirrorace.net/?channelid=483
 #EXTINF:-1 tvg-id="697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment",Sony aath Mirror
-http://iptv.mirrorace.net/?channelid=697 
+http://iptv.mirrorace.net/?channelid=697
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Hindi",COLORS HD
+http://iptv.mirrorace.net/?channelid=144
