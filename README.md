@@ -665,3 +665,5 @@ http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
 http://iptv.mirrorace.net/?channelid=488
 #EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 2 HD" tvg-logo="" group-title="Sports",|SPORTS| TEN 2 HD
 http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="Sports",|SPORTS| STAR SPORTS SELECT 1 HD
+http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74426.m3u8
