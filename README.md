@@ -653,7 +653,7 @@ http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Star Bharat
 http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Star Gold HD
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/11NBgSQRxWv_xjfYQTCq4g404otwrl_k3/view?usp=drivesdk" group-title="ebox",Star Gold HD
 http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
 #EXTINF:-1 group-title="ebox",&Xplore
 http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
