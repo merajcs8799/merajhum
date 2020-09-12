@@ -661,3 +661,5 @@ http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Animal Planet HD
 http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Hindi",Zee Action
+http://iptv.mirrorace.net/?channelid=488
