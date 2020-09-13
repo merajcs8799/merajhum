@@ -667,3 +667,5 @@ http://iptv.mirrorace.net/?channelid=488
 http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74423.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="Sports",|SPORTS| STAR SPORTS SELECT 1 HD
 http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74426.m3u8
+#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Hindi",Zee Action
+http://45.249.187.238:8081/hls/tsl-3.m3u8
