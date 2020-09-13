@@ -183,8 +183,8 @@ http://103.135.208.14/live/ibox/bd/99.m3u8
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Star Sports Select 1 HD
 http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Bein Sports Xtra HD
-https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Bein Sports 1 HQ ⚽
+https://mn-nl-glb.mncdn.com/dlive/transcode-76-251/f105f4e367/1599906862/src/live.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="English",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Indian Bangla",Peace TV Bangla
@@ -256,12 +256,12 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-id="StarSportsSelect2(src07).in(m3u4u)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/120px-1-HD.png" group-title="Sports",Bein Sports HD 1
-http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/120px-2-HD.png" group-title="Sports",Bein Sports HD 2
-http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/415.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/120px-3-HD.png" group-title="Sports",Bein Sports HD 3
-http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/69.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/120px-1-HD.png" group-title="Sports",Bein Sports HD 1 Low ⚽
+https://akamai2-me.cdn.booyah.live/hls/113134/16201993.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/120px-2-HD.png" group-title="Sports",Bein Sports HD 1 English ⚽
+https://verizon.mx.cdn.booyah.live/hls/210158/24039509.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/120px-3-HD.png" group-title="Sports",Bein Sports HD 1  Good ⚽
+https://2-fss-2.streamhoster.com/pl_124/amlst:203814-1456922/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/120px-4-HD.png" group-title="Sports",Bein Sports HD 4
 http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/70.ts
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Sports Xtra" tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",Bein Sports Xtra
