@@ -195,7 +195,7 @@ http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Hindi",Sony SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Hindi",& Flix HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Hindi",And Flix HD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:0 group-title="English" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",HBO 
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
@@ -601,13 +601,13 @@ http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Sony Sab 
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1 group-title="ebox",&TV HD
+#EXTINF:-1 group-title="ebox",And TV HD
 http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Sony Max HD
 http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Zee Cinema HD
 http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",&Pictures
+#EXTINF:-1 group-title="ebox",And Pictures
 http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Sony Ten 1 
 http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
@@ -633,7 +633,7 @@ http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Sony Pix HD
 http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
-#EXTINF:-1 group-title="ebox",&Flix HD
+#EXTINF:-1 group-title="ebox",And Flix HD
 http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
 #EXTINF:-1 group-title="ebox",Romedy Now
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
@@ -669,3 +669,4 @@ http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74423.m3u8
 http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74426.m3u8
 #EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Hindi",Zee Action
 http://45.249.187.238:8081/hls/tsl-3.m3u8
+
