@@ -795,4 +795,17 @@ http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="" group-title="CS TV ❤️",Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 1 HD
+https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 2 HD
+https://load.airtel.tv/sonyten2hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 3 HD
+https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES",SONY MAX (2)
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="IND. MOVIES",Sony MAX2 (2)
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES",SONY WAH (2)
+https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
+
 
