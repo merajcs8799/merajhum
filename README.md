@@ -672,13 +672,13 @@ http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 ,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="CS TV ❤️", GAZI TV HD [BD]
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+http://103.214.202.218:8081/live/gazi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="CS TV ❤️", MAASRANGA TV HD [BD]
-http://103.214.202.218:8081/live/maasranga/chunks.m3u8
+http://103.214.202.218:8081/live/maasranga-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="CS TV ❤️", CHANNEL 9 HD [BD]
-http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+http://103.214.202.218:8081/live/channel9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="CS TV ❤️", DEEPTO TV HD [BD]
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
