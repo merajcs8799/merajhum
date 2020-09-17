@@ -671,4 +671,128 @@ http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74426.m3u8
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 ,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="CS TV ❤️", GAZI TV HD [BD]
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="CS TV ❤️", MAASRANGA TV HD [BD]
+http://103.214.202.218:8081/live/maasranga/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="CS TV ❤️", CHANNEL 9 HD [BD]
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="CS TV ❤️", DEEPTO TV HD [BD]
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="CS TV ❤️", ASIAN TV HD [BD]
+http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="CS TV ❤️", NTV [BD]
+http://103.214.202.218:8081/live/ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="CS TV ❤️", RTV HD [BD]
+http://103.214.202.218:8081/live/rtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="CS TV ❤️", ATN NEWS TV [BD]
+http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="CS TV ❤️", BOISHAKHI TV [BD]
+http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="CS TV ❤️", EKATTOR TV HD [BD]
+http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="CS TV ❤️", SA TV HD [BD]
+http://103.214.202.218:8081/live/satv-22/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="CS TV ❤️", MOHONA TV [BD]
+http://103.214.202.218:8081/live/mohona/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="CS TV ❤️", NEWS 24 HD [BD]
+http://103.214.202.218:8081/live/news24-24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="CS TV ❤️", DBC NEWS HD [BD]
+http://103.214.202.218:8081/live/dbc/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="CS TV ❤️", INDEPENDENT TV [BD]
+http://103.214.202.218:8081/live/independent/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="CS TV ❤️", SOMOY TV [BD]
+http://103.214.202.218:8081/live/somoy/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="CS TV ❤️", JAMUNA TV [BD]
+http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="CS TV ❤️", ATN BANGLA [BD]
+http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="CS TV ❤️", CHANNEL I HD [BD]
+http://103.214.202.218:8081/live/channeli/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="CS TV ❤️", MY TV [BD]
+http://103.214.202.218:8081/live/mytv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="CS TV ❤️", EKUSHEY TV [BD]
+http://103.214.202.218:8081/live/ekushey/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="CS TV ❤️", BIJOY TV [BD]
+http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="CS TV ❤️", ATN Islam
+http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="CS TV ❤️", GAAN BANGLA HD [BD]
+http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="CS TV ❤️", Star Jalsha HD [IN]
+http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="CS TV ❤️", Colors Bangla HD [IN]
+http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="CS TV ❤️", SONY SET MAX HD
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="CS TV ❤️", Zee Cinema HD
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="CS TV ❤️", Star Sports 1 HD
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="CS TV ❤️", Star Sports Select 1 HD
+http://103.214.202.218:8081/live/select1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="CS TV ❤️", Sony Ten 1 HD
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="CS TV ❤️", Sony Ten 2 HD
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="CS TV ❤️", Sony Ten 3 HD
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="CS TV ❤️", ANIMAL PLANET HD
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="CS TV ❤️", History TV HD
+http://103.214.202.218:8081/live/history/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="CS TV ❤️", MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="CS TV ❤️", Zoom
+http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="CS TV ❤️", & Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="CS TV ❤️", & Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9" tvg-logo="" group-title="CS TV ❤️",Channel 9
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Ekattor TV" tvg-logo="" group-title="CS TV ❤️",Ekattor TV
+http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Ekushey TV" tvg-logo="" group-title="CS TV ❤️",Ekushey TV
+http://103.214.202.218:8081/live/ekushey/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="" group-title="CS TV ❤️",SONY SAB
+http://103.214.202.218:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="" group-title="CS TV ❤️",Star Sports 2
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
