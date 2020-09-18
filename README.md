@@ -823,5 +823,25 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES",SONY WAH (2)
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
-
-
+#EXTINF:-1 ,Sony Ten 2 ftp
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 ,Sony Ten 1 ftp
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 ,Sony Six ftp
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 ,Star Sports Select 1 HD ftp
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 ,Star Sports Select 2 HD ftp
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 ,Star Sports 1 ftp
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 ,Star Sports 2 ftp
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 ,Sony Max SD ftp
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 ,Sony Aath ftp
+http://otv.ftpbd.net/streams/127/index.m3u8
+#EXTINF:-1 ,Jalsha Movies SD ftp
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 , Channel 9 ftp
+http://otv.ftpbd.net/streams/102/index.m3u8
