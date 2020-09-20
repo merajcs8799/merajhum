@@ -845,3 +845,7 @@ http://otv.ftpbd.net/streams/127/index.m3u8
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 , Channel 9 ftp
 http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF:-1 , 🌟 Sports Select 1 HD
+http://103.84.253.5/live/fastfeed1002/index.m3u8
+#EXTINF:-1 , 🌟 Sports Select 2 HD
+http://103.84.253.5/live/fastfeed1001/index.m3u8
