@@ -849,3 +849,49 @@ http://otv.ftpbd.net/streams/102/index.m3u8
 http://103.84.253.5/live/fastfeed1002/index.m3u8
 #EXTINF:-1 , 🌟 Sports Select 2 HD
 http://103.84.253.5/live/fastfeed1001/index.m3u8
+#EXTINF:-1 ,GTV 😎
+http://103.102.136.106:8080/cmcltv/gtv.m3u8
+#EXTINF:-1 ,Maasranga Tv 😎
+http://103.102.136.106:8080/cmcltv/masranga.m3u8
+#EXTINF:-1 ,Channel I 😎
+http://103.102.136.106:8080/cmcltv/channeli.m3u8
+#EXTINF:-1 ,Gaan Bangla 😎
+http://103.102.136.106:8080/cmcltv/gaanbangla.m3u8
+#EXTINF:-1 ,Duronto Tv 😎
+http://103.102.136.106:8080/cmcltv/duronto.m3u8
+#EXTINF:-1 ,Somoy TV 😎
+http://103.102.136.106:8080/cmcltv/somoy.m3u8
+#EXTINF:-1 ,Channel 24 😎
+http://103.102.136.106:8080/cmcltv/channel24.m3u8
+#EXTINF:-1 ,Ekattor Tv 😎
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
+#EXTINF:-1 ,Jamuna Tv 😎
+http://103.102.136.106:8080/cmcltv/jamuna.m3u8
+#EXTINF:-1 ,DBC News 😎
+http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
+#EXTINF:-1 ,Channel 9 😎
+http://103.102.136.106:8080/cmcltv/channel9.m3u8
+#EXTINF:-1 ,Independent Tv 😎
+http://103.102.136.106:8080/cmcltv/independent.m3u8
+#EXTINF:-1 ,News24 😎
+http://103.102.136.106:8080/cmcltv/news24.m3u8
+#EXTINF:-1 ,Star Sports 1 😎
+http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
+#EXTINF:-1 ,Live Sports 1 😎
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1 ,Live Sports 2 😎
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+#EXTINF:-1 ,Live Sports 3 😎
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+#EXTINF:-1 ,Live Sports 4 😎
+http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+#EXTINF:-1 ,Star Jalsha HD 😎
+http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
+#EXTINF:-1 ,Sony Tv HD 😎
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+#EXTINF:-1 ,Colors Bangla 😎
+http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+#EXTINF:-1 ,Colors 😎
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+#EXTINF:-1 ,Zee Bangla 😎
+http://103.102.136.106:8080/cmcltv/tcm_zeebangla.m3u8
