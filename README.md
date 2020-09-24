@@ -823,75 +823,80 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES",SONY WAH (2)
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 ,Sony Ten 2 ftp
+#EXTINF:-1 group-title="FTPBD",Sony Ten 2 ftp
 http://otv.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 ,Sony Ten 1 ftp
+#EXTINF:-1 group-title="FTPBD",Sony Ten 1 ftp
 http://otv.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1 ,Sony Six ftp
+#EXTINF:-1 group-title="FTPBD",Sony Six ftp
 http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 ,Star Sports Select 1 HD ftp
+#EXTINF:-1 group-title="FTPBD",Star Sports Select 1 HD ftp
 http://otv.ftpbd.net/streams/113/index.m3u8
-#EXTINF:-1 ,Star Sports Select 2 HD ftp
+#EXTINF:-1 group-title="FTPBD",Star Sports Select 2 HD ftp
 http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 ,Star Sports 1 ftp
+#EXTINF:-1 group-title="FTPBD",Star Sports 1 ftp
 http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 ,Star Sports 2 ftp
+#EXTINF:-1 group-title="FTPBD",Star Sports 2 ftp
 http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 ,Sony Max SD ftp
+#EXTINF:-1 group-title="FTPBD",Sony Max SD ftp
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 ,Sony Aath ftp
+#EXTINF:-1 group-title="FTPBD",Sony Aath ftp
 http://otv.ftpbd.net/streams/127/index.m3u8
-#EXTINF:-1 ,Jalsha Movies SD ftp
+#EXTINF:-1 group-title="FTPBD",Jalsha Movies SD ftp
 http://otv.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 , Channel 9 ftp
+#EXTINF:-1 group-title="FTPBD",Channel 9 ftp
 http://otv.ftpbd.net/streams/102/index.m3u8
-#EXTINF:-1 , 🌟 Sports Select 1 HD
-http://103.84.253.5/live/fastfeed1002/index.m3u8
-#EXTINF:-1 , 🌟 Sports Select 2 HD
-http://103.84.253.5/live/fastfeed1001/index.m3u8
-#EXTINF:-1 ,GTV 😎
+
+#EXTINF:-1 group-title="CS TV",GTV 😎
 http://103.102.136.106:8080/cmcltv/gtv.m3u8
-#EXTINF:-1 ,Maasranga Tv 😎
+#EXTINF:-1 group-title="CS TV",Maasranga Tv 😎
 http://103.102.136.106:8080/cmcltv/masranga.m3u8
-#EXTINF:-1 ,Channel I 😎
+#EXTINF:-1 group-title="CS TV",Channel I 😎
 http://103.102.136.106:8080/cmcltv/channeli.m3u8
-#EXTINF:-1 ,Gaan Bangla 😎
+#EXTINF:-1 group-title="CS TV",Gaan Bangla 😎
 http://103.102.136.106:8080/cmcltv/gaanbangla.m3u8
-#EXTINF:-1 ,Duronto Tv 😎
+#EXTINF:-1 group-title="CS TV",Duronto Tv 😎
 http://103.102.136.106:8080/cmcltv/duronto.m3u8
-#EXTINF:-1 ,Somoy TV 😎
+#EXTINF:-1 group-title="CS TV",Somoy TV 😎
 http://103.102.136.106:8080/cmcltv/somoy.m3u8
-#EXTINF:-1 ,Channel 24 😎
+#EXTINF:-1 group-title="CS TV",Channel 24 😎
 http://103.102.136.106:8080/cmcltv/channel24.m3u8
-#EXTINF:-1 ,Ekattor Tv 😎
+#EXTINF:-1 group-title="CS TV",Ekattor Tv 😎
 http://103.102.136.106:8080/cmcltv/ekator.m3u8
-#EXTINF:-1 ,Jamuna Tv 😎
+#EXTINF:-1 group-title="CS TV",Jamuna Tv 😎
 http://103.102.136.106:8080/cmcltv/jamuna.m3u8
-#EXTINF:-1 ,DBC News 😎
+#EXTINF:-1 group-title="CS TV",DBC News 😎
 http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
-#EXTINF:-1 ,Channel 9 😎
+#EXTINF:-1 group-title="CS TV",Channel 9 😎
 http://103.102.136.106:8080/cmcltv/channel9.m3u8
-#EXTINF:-1 ,Independent Tv 😎
+#EXTINF:-1 group-title="CS TV",Independent Tv 😎
 http://103.102.136.106:8080/cmcltv/independent.m3u8
-#EXTINF:-1 ,News24 😎
+#EXTINF:-1 group-title="CS TV",News24 😎
 http://103.102.136.106:8080/cmcltv/news24.m3u8
-#EXTINF:-1 ,Star Sports 1 😎
+#EXTINF:-1 group-title="CS TV",Star Sports 1 😎
 http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
-#EXTINF:-1 ,Live Sports 1 😎
+#EXTINF:-1 group-title="CS TV",Sony Six 😎
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1 ,Live Sports 2 😎
+#EXTINF:-1 group-title="CS TV",Live Sports 2 😎
 http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
-#EXTINF:-1 ,Live Sports 3 😎
+#EXTINF:-1 group-title="CS TV",Live Sports 3 😎
 http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
-#EXTINF:-1 ,Live Sports 4 😎
+#EXTINF:-1 group-title="CS TV",Live Sports 4 😎
 http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
-#EXTINF:-1 ,Star Jalsha HD 😎
+#EXTINF:-1 group-title="CS TV",Star Jalsha HD 😎
 http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
-#EXTINF:-1 ,Sony Tv HD 😎
+#EXTINF:-1 group-title="CS TV",Sony Tv HD 😎
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
-#EXTINF:-1 ,Colors Bangla 😎
+#EXTINF:-1 group-title="CS TV",Colors Bangla 😎
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
-#EXTINF:-1 ,Colors 😎
+#EXTINF:-1 group-title="CS TV",Colors 😎
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
-#EXTINF:-1 ,Zee Bangla 😎
+#EXTINF:-1 group-title="CS TV",Zee Bangla 😎
 http://103.102.136.106:8080/cmcltv/tcm_zeebangla.m3u8
+#EXTINF:-1 group-title="CS TV",Sony Ten 1 😎
+http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
+#EXTINF:-1 group-title="CS TV",Sony Ten 2 😎
+http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
+#EXTINF:-1 group-title="CS TV",Sony Aath 😎
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+#EXTINF:-1 group-title="CS TV",Sony Max SD 😎
+http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
