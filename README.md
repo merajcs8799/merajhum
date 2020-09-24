@@ -901,5 +901,9 @@ http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1 group-title="CS TV",Sony Max SD 😎
 http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
+#EXTINF:-1 group-title="CS TV",Zee Cinema 😎
+http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
+#EXTINF:-1 group-title="CS TV",And Pictures 😎
+http://103.102.136.106:8080/cmcltv/tcm_&picture.m3u8
 
 
