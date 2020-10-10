@@ -658,6 +658,10 @@ http://otv.ftpbd.net/streams/127/index.m3u8
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 group-title="FTPBD",Channel 9 ftp
 http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF:-1 group-title="FTPBD",Star Movies HD ftp
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 group-title="FTPBD",CN ftp
+http://otv.ftpbd.net/streams/123/index.m3u8
 
 
 #EXTINF:-1 group-title="CS TV",GTV 😎
