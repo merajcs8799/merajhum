@@ -818,3 +818,95 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 
+
+
+#EXTINF:-1 group-title="ICC", ATN BANGLA
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1 group-title="ICC", BANGLA TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1 group-title="ICC", BANGLA VISION
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1 group-title="ICC", BIJOY TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1 group-title="ICC", BOISHAKHI BANGLA
+http://10.16.100.205/hls/boishakhi_720.m3u8
+#EXTINF:-1 group-title="ICC", CHANNEL I
+http://10.16.100.203:8082/bangla/i_Channel.m3u8
+#EXTINF:-1 group-title="ICC", CHANNEL 9
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
+#EXTINF:-1 group-title="ICC", DBC NEWS
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-1 group-title="ICC", DESH TV
+http://10.16.100.205/hls/desh_tv_720.m3u8
+#EXTINF:-1 group-title="ICC", DIGI BANGLA 24
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-1 group-title="ICC", EKATTOR TV
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
+#EXTINF:-1 group-title="ICC", EKUSHAY ETV
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-1 group-title="ICC", GTV
+http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1 group-title="ICC", INDEPENDENT NEWS
+http://10.16.100.203:8082/bangla/news_independent.m3u8
+#EXTINF:-1 group-title="ICC", JAMUNA TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1 group-title="ICC", MOHONA TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+#EXTINF:-1 group-title="ICC", MY TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:-1 group-title="ICC", NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:-1 group-title="ICC", NEWS 24
+http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+#EXTINF:-1 group-title="ICC", RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:-1 group-title="ICC", SOMOY TV
+http://10.16.100.205/hls/somoy_tv.m3u8
+#EXTINF:-1 group-title="ICC", DURONTO TV
+http://10.16.100.201/hindi/duronto_720_cm.m3u8
+#EXTINF:-1 group-title="ICC", &TV
+http://10.16.100.204/hls/&tv.m3u8
+#EXTINF:-1 group-title="ICC", COLORS TV
+http://10.16.100.204/hls/colors.m3u8
+#EXTINF:-1 group-title="ICC", SONY TV
+http://10.16.100.204/hls/sony_tv_720.m3u8
+#EXTINF:-1 group-title="ICC", STAR PLUS
+http://10.16.100.204/hls/star_plus.m3u8
+#EXTINF:-1 group-title="ICC", ZEE TV
+http://10.16.100.204/hls/Zee_TV_720.m3u8
+#EXTINF:-1 group-title="ICC", AKAASH AATH
+http://10.16.100.204/hls/akash_aath_720.m3u8
+#EXTINF:-1 group-title="ICC", COLORS BANGLA
+http://10.16.100.203:8082/bangla/colorsbangla.m3u8
+#EXTINF:-1 group-title="ICC", SONY AATH
+http://10.16.100.204/hls/sony_aath.m3u8
+#EXTINF:-1 group-title="ICC", STAR JALSWA
+http://10.16.100.204/hls/star_jalsha.m3u8
+#EXTINF:-1 group-title="ICC", ZEE BANGLA
+http://10.16.100.204/hls/zee_bangla_720.m3u8
+#EXTINF:-1 group-title="ICC", & Picture
+http://10.16.100.204/hls/andpicture_720.m3u8
+#EXTINF:-1 group-title="ICC", WOW CINEMA
+http://10.16.100.201/hindi/wow_cinema.m3u8
+#EXTINF:-1 group-title="ICC", 9XM MUSIC
+http://10.16.100.204/hls/9xm_720.m3u8
+#EXTINF:-1 group-title="ICC", DHOOM MUSIC
+http://10.16.100.201/hindi/dhoom_music.m3u8
+#EXTINF:-1 group-title="ICC", GAAN BANGLA
+http://10.16.100.205/hls/gaanbangla_ctg.m3u8
+#EXTINF:-1 group-title="ICC", SANGEET BANGLA
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 group-title="ICC", PEACE TV
+http://10.16.100.207:8082/sports/peacetv.m3u8
+#EXTINF:-1 group-title="ICC", QURAN TV
+http://10.16.100.207:8082/sports/qurantv.m3u8
+#EXTINF:-1 group-title="ICC", SUNNAH TV
+http://10.16.100.207:8082/sports/sunnahtv.m3u8
+#EXTINF:-1 group-title="ICC", SONY TEN 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:-1 group-title="ICC", STAR SPORTS 2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-1 group-title="ICC", STAR SPORTS SELECT 1
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:-1 group-title="ICC", STAR SPORTS SELECT 2
+http://10.16.100.207:8082/sports/ssselect2.m3u8
