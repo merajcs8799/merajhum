@@ -662,6 +662,8 @@ http://otv.ftpbd.net/streams/102/index.m3u8
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 group-title="FTPBD",CN ftp
 http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 group-title="FTPBD",Gazi TV
+http://otv.ftpbd.net/streams/108/index.m3u8
 
 
 #EXTINF:-1 group-title="CS TV",GTV 😎
