@@ -185,21 +185,7 @@ http://45.249.187.238:8081/hls/hdmi1.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Animal Planet
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 
-#EXTINF:-1 tvg-id="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Hindi",And TV HD
-http://iptv.mirrorace.net/?channelid=472
-#EXTINF:-1 tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Hindi",Sony Max SD Mirror
-http://iptv.mirrorace.net/?channelid=289
-#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi",Sony MAX 2 Mirror
-http://iptv.mirrorace.net/?channelid=483
-#EXTINF:-1 tvg-id="697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment",Sony aath Mirror
-http://iptv.mirrorace.net/?channelid=697
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Hindi",COLORS HD
-http://iptv.mirrorace.net/?channelid=144
-http://iptv.mirrorace.net/?channelid=177 
-#EXTINF:-1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD
-http://iptv.mirrorace.net/?channelid=891
-#EXTINF:-1 tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Hindi",Sony Max SD Mirror
-http://iptv.mirrorace.net/?channelid=289
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Star Sports Select 1 HD 🐸
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Sports",Star Sports Select 2 HD Bengal
@@ -636,34 +622,6 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 
-#EXTINF:-1 group-title="FTPBD",Sony Ten 2 ftp
-http://otv.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Sony Ten 1 ftp
-http://otv.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Sony Six ftp
-http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Star Sports Select 1 HD ftp
-http://otv.ftpbd.net/streams/113/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Star Sports Select 2 HD ftp
-http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Star Sports 1 ftp
-http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Star Sports 2 ftp
-http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Sony Max SD ftp
-http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Sony Aath ftp
-http://otv.ftpbd.net/streams/127/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Jalsha Movies SD ftp
-http://otv.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Channel 9 ftp
-http://otv.ftpbd.net/streams/102/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Star Movies HD ftp
-http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1 group-title="FTPBD",CN ftp
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1 group-title="FTPBD",Gazi TV
-http://otv.ftpbd.net/streams/108/index.m3u8
 
 
 #EXTINF:-1 group-title="CS TV",GTV 😎
@@ -1112,3 +1070,59 @@ https://ott.bingebd.com/live/ngrp:sonic_all/playlist.m3u8
 https://ott.bingebd.com/live/ngrp:sony_yay_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Discovery Kids
 https://ott.bingebd.com/live/ngrp:discovery_kids_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Gazi TV
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Channel 9
+http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Deepto
+http://otv.ftpbd.net/streams/103/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Ekattor
+http://otv.ftpbd.net/streams/128/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Channel I HD
+http://otv.ftpbd.net/streams/126/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sony Aath
+http://otv.ftpbd.net/streams/127/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Zee bangla
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sony Max
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports 1 HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sony Ten1
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sony Ten 2
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Sont Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Jalsha Movies
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_17
+http://otv.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_18
+http://otv.ftpbd.net/streams/118/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Duronto TV
+http://otv.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Disney
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_CN
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_UTV Action
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Star Movies HD
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_20
+http://otv.ftpbd.net/streams/120/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_National Geographic HD
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ftpbd.png" group-title="FTPBD",FTP_Discovery
+http://otv.ftpbd.net/streams/121/index.m3u8
