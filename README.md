@@ -625,31 +625,31 @@ https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 
 #EXTINF:-1 group-title="CS TV",GTV 😎
-http://103.102.136.106:8080/cmcltv/gtv.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1 group-title="CS TV",Maasranga Tv 😎
-http://103.102.136.106:8080/cmcltv/masranga.m3u8
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 #EXTINF:-1 group-title="CS TV",Channel I 😎
-http://103.102.136.106:8080/cmcltv/channeli.m3u8
+http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
 #EXTINF:-1 group-title="CS TV",Gaan Bangla 😎
-http://103.102.136.106:8080/cmcltv/gaanbangla.m3u8
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
 #EXTINF:-1 group-title="CS TV",Duronto Tv 😎
-http://103.102.136.106:8080/cmcltv/duronto.m3u8
+http://103.102.136.106:8080/cmcltv/duronto_tg.m3u8
 #EXTINF:-1 group-title="CS TV",Somoy TV 😎
-http://103.102.136.106:8080/cmcltv/somoy.m3u8
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
 #EXTINF:-1 group-title="CS TV",Channel 24 😎
-http://103.102.136.106:8080/cmcltv/channel24.m3u8
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
 #EXTINF:-1 group-title="CS TV",Ekattor Tv 😎
-http://103.102.136.106:8080/cmcltv/ekator.m3u8
+http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
 #EXTINF:-1 group-title="CS TV",Jamuna Tv 😎
-http://103.102.136.106:8080/cmcltv/jamuna.m3u8
+http://103.102.136.106:8080/cmcltv/jamuna_th.m3u8
 #EXTINF:-1 group-title="CS TV",DBC News 😎
-http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
+http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
 #EXTINF:-1 group-title="CS TV",Channel 9 😎
-http://103.102.136.106:8080/cmcltv/channel9.m3u8
+http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
 #EXTINF:-1 group-title="CS TV",Independent Tv 😎
-http://103.102.136.106:8080/cmcltv/independent.m3u8
+http://103.102.136.106:8080/cmcltv/independent_tg.m3u8
 #EXTINF:-1 group-title="CS TV",News24 😎
-http://103.102.136.106:8080/cmcltv/news24.m3u8
+http://103.102.136.106:8080/cmcltv/news24_th.m3u8
 #EXTINF:-1 group-title="CS TV",Star Sports 1 😎
 http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
 #EXTINF:-1 group-title="CS TV",Star Sports Select 2 HD 😎
