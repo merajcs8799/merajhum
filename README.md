@@ -148,8 +148,6 @@ http://45.249.187.238:8081/hls/new7.m3u8
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Star Gold 2
 http://45.249.187.238:8081/hls/tsl-6.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Hindi",And TV Ibox
-http://103.135.208.14/live/ibox/bd/47.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Sony Sab
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Star Gold 2
@@ -334,127 +332,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
 
 
-#EXTINF:-1 group-title="ebox",Ekattor HD
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Independent TV
-http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Jamuna TV
-http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Somoy TV
-http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
-#EXTINF:-1 group-title="ebox",DBC News
-http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
-#EXTINF:-1 group-title="ebox",News 24
-http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
-#EXTINF:-1 group-title="ebox",ATN News
-http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Channel 24
-http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Channel I
-http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
-#EXTINF:-1 group-title="ebox",BTV Chattogram
-http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",NTV
-http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Bangla Vision
-http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Boishakhi TV
-http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Deepto TV
-http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
-#EXTINF:-1 group-title="ebox",SA TV HD 
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",ATN Bangla
-http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Channel 9
-http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Asian TV 
-http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",MY TV
-http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Mohona TV
-http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Ananda TV
-http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Gaan Bangla
-http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
-#EXTINF:-1 group-title="ebox",ATN Music
-http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
-#EXTINF:-1 group-title="ebox",BTV World
-http://103.49.168.172:8081/ebox/bd_btv_world/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Star Jalsha HD
-http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Zee Bangla
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Colors Bangla
-http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Ruposhi Bangla
-http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Zee TV HD
-http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Colors
-http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony Sab 
-http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1 group-title="ebox",And TV HD
-http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony Max HD
-http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Zee Cinema HD
-http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",And Pictures
-http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony Ten 1 
-http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony Ten 2 
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",,Sony Ten 2 HD
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
-#EXTINF:-1 group-title="ebox",,Sony Ten 3 HD
-http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony Ten 3 
-http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony Six 
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
-#EXTINF:-1 group-title="ebox",ESPN
-http://103.49.168.172:8081/ebox/espn/chunks.m3u8
-#EXTINF:-1 group-title="ebox",AD Sports 1
-http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
-#EXTINF:-1 group-title="ebox",AD Sports 2
-http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
-#EXTINF:-1 group-title="ebox",AD Sports 3
-http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
-#EXTINF:-1 group-title="ebox",AD Sports 4
-http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony Pix HD
-http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
-#EXTINF:-1 group-title="ebox",And Flix HD
-http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Romedy Now
-http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Movies Now
-http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Nat Geo Channel HD
-http://103.49.168.172:8081/ebox/in_natgeo_hd/playlist.m3u8
-#EXTINF:-1 group-title="ebox",TLC HD
-http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",BBC World
-http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Al Jazeera
-http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
-#EXTINF:-1 group-title="ebox",DW
-http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Sony TV HD
-http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Star Bharat
-http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/11NBgSQRxWv_xjfYQTCq4g404otwrl_k3/view?usp=drivesdk" group-title="ebox",Star Gold HD
-http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
-#EXTINF:-1 group-title="ebox",&Xplore
-http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Bflix
-http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
-#EXTINF:-1 group-title="ebox",Animal Planet HD
 
 http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Hindi",Zee Action
