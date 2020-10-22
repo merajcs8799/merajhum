@@ -43,8 +43,8 @@ http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 http://iptv.mirrorace.net/?channelid=155 
 #EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Ten 1 HD Mirror
 http://iptv.mirrorace.net/?channelid=162
-#EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi",Sony Max Ibox
-http://103.135.208.14/live/ibox/bd/107.m3u8
+#EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi",Sony Max HD
+http://global.thunderbd.com/37/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonySix(src07).in(m3u4u)" tvg-name="Sony Six HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="English",Star Movies
