@@ -499,66 +499,70 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 
-
-
-#EXTINF:-1 group-title="CS TV",GTV 😎
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1 group-title="CS TV",Maasranga Tv 😎
-http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
-#EXTINF:-1 group-title="CS TV",Channel I 😎
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="CMCL TV",CHANNEL I HD [BD]
 http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
-#EXTINF:-1 group-title="CS TV",Gaan Bangla 😎
-http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
-#EXTINF:-1 group-title="CS TV",Duronto Tv 😎
-http://103.102.136.106:8080/cmcltv/duronto_tg.m3u8
-#EXTINF:-1 group-title="CS TV",Somoy TV 😎
-http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
-#EXTINF:-1 group-title="CS TV",Channel 24 😎
-http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
-#EXTINF:-1 group-title="CS TV",Ekattor Tv 😎
-http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
-#EXTINF:-1 group-title="CS TV",Jamuna Tv 😎
-http://103.102.136.106:8080/cmcltv/jamuna_th.m3u8
-#EXTINF:-1 group-title="CS TV",DBC News 😎
-http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
-#EXTINF:-1 group-title="CS TV",Channel 9 😎
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="CMCL TV",CHANNEL 9 HD [BD]
 http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
-#EXTINF:-1 group-title="CS TV",Independent Tv 😎
-http://103.102.136.106:8080/cmcltv/independent_tg.m3u8
-#EXTINF:-1 group-title="CS TV",News24 😎
-http://103.102.136.106:8080/cmcltv/news24_th.m3u8
-#EXTINF:-1 group-title="CS TV",Star Sports 1 😎
-http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
-#EXTINF:-1 group-title="CS TV",Star Sports Select 2 HD 😎
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1 group-title="CS TV",Live Sports 2 😎
-http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
-#EXTINF:-1 group-title="CS TV",Live Sports 3 😎
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
-#EXTINF:-1 group-title="CS TV",Live Sports 4 😎
-http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
-#EXTINF:-1 group-title="CS TV",Star Jalsha HD 😎
-http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
-#EXTINF:-1 group-title="CS TV",Sony Tv HD 😎
-http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
-#EXTINF:-1 group-title="CS TV",Colors Bangla 😎
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="CMCL TV",Gazi TV HD [BD]
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="CMCL TV",Maasraga TV HD [BD]
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="CMCL TV",SOMOY TV [BD]
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="CMCL TV",CHANNEL 24 [BD]
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="CMCL TV",EKATTOR TV HD [BD]
+http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="CMCL TV",JAMUNA TV [BD]
+http://103.102.136.106:8080/cmcltv/jamuna_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="CMCL TV",NEWS 24 HD [BD]
+http://103.102.136.106:8080/cmcltv/news24-th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="CMCL TV",DBC NEWS HD [BD]
+http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="CMCL TV",DURONTO TV [BD]
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="CMCL TV",Gaan Bangla [BD]
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="CMCL TV",Zee Bangla SD [IN] (2)
+http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="CMCL TV",Colors Bangla SD
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
-#EXTINF:-1 group-title="CS TV",Colors 😎
-http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
-#EXTINF:-1 group-title="CS TV",Zee Bangla 😎
-http://103.102.136.106:8080/cmcltv/tcm_zeebangla.m3u8
-#EXTINF:-1 group-title="CS TV",Sony Ten 1 😎
-http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
-#EXTINF:-1 group-title="CS TV",Sony Ten 2 😎
-http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
-#EXTINF:-1 group-title="CS TV",Sony Aath 😎
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="CMCL TV",Sony Aath [IN] (1)
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-#EXTINF:-1 group-title="CS TV",Sony Max SD 😎
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="CMCL TV",COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="CMCL TV",SONY
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="CMCL TV",SONY Max
 http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
-#EXTINF:-1 group-title="CS TV",Zee Cinema 😎
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="CMCL TV",Zee Cinema
 http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
-#EXTINF:-1 group-title="CS TV",And Pictures 😎
-http://103.102.136.106:8080/cmcltv/tcm_&picture.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="CMCL TV",And Pictures
+http://103.102.136.106:8080/cmcltv/tcm_&pictures.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="CMCL TV",BBC News
+http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="CMCL TV",Al Jazeera
+http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="CMCL TV",CNN News
+http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports 2
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports 3
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL TV",Live Sports 4
+http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="CMCL TV",Star Sports 1
+http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="CMCL TV",Sony Ten 1
+http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="CMCL TV",Sony Ten 2
+http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="CMCL TV",Sony Ten 3
+http://103.102.136.106:8080/cmcltv/tcm_ten3.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="JAGO BD IPTV",JAGO_Sangsad TV [BD]
